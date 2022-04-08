@@ -20,5 +20,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gobind147&" alt="Gobind147" /></p>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/GOBIND147?template=classic&base.header=0&gists=1&lines=1&config.timezone=India)
 
