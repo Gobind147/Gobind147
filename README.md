@@ -20,6 +20,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gobind147&" alt="Gobind147" /></p>
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/GOBIND147?template=classic&base.header=0&gists=1&lines=1&config.timezone=India)
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Gobind147/Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle" />
+</a>
+
+<a href="https://github.com/Gobind147/Automated-Pick-and-Place-Mechanism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Automated-Pick-and-Place-Mechanism&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Automated-Pick-and-Place-Mechanism" />
+</a>
 
