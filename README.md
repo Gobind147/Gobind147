@@ -2,8 +2,8 @@
 <img align='right' src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="230">
 
 
-- 🔭 I’m currently working on my Portfolio website.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on my new project.
+- 🌱 I’m currently learning React and Typescript.
 - 👯 I’m looking to collaborate on Frontend web development projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Frontend or any tech related stuff.
@@ -15,7 +15,7 @@
 
 **Coding Profiles--** 
 
-CODECHEF https://www.codechef.com/users/gobind19095
+CODECHEF (https://www.codechef.com/users/gobind36)
 
 HACKEREARTH https://www.hackerearth.com/@gobindkumar19095
 
