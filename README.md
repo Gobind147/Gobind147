@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on my new project.
-- 🌱 I’m currently learning React and Typescript.
-- 👯 I’m looking to collaborate on Frontend web development projects.
+- 🌱 I’m currently learning React Js and Node Js.
+- 👯 I’m looking to collaborate on Full stack web development projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Frontend or any tech related stuff.
 - 📫 How to reach me: https://www.linkedin.com/in/gobind-kumar-0332b21a2/
