@@ -54,6 +54,14 @@ LEETCODE https://leetcode.com/gobind147/
 
 ## 🗂️ Highlight Projects
 
+<a href="https://github.com/Gobind147/Shopping-Cart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Shopping-Cart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Shopping-Cart" />
+</a>
+
+<a href="https://github.com/Gobind147/CRUD-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=CRUD-API&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CRUD-API" />
+</a>
+
 <a href="https://github.com/Gobind147/Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle" />
 </a>
