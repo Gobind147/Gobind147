@@ -55,6 +55,14 @@ LEETCODE https://leetcode.com/gobind147/
 
 ## 🗂️ Highlight Projects
 
+<a href="https://github.com/Gobind147/project-management-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=project-management-dashboard&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project-management-dashboard" />
+</a>
+
+<a href="https://github.com/Gobind147/Portfolio-Gobind">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Portfolio-Gobind&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio-Gobind" />
+</a>
+
 <a href="https://github.com/Gobind147/Shopping-Cart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Shopping-Cart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Shopping-Cart" />
 </a>
