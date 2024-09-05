@@ -1,119 +1,48 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Gobind Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="230">
+# Gobind Kumar
+A passionate full-stack developer focused on building dynamic and efficient web applications.
 
-
-- 🔭 I’m currently working on my new project.
-- 🌱 I’m currently learning React Js and Node Js.
-- 👯 I’m looking to collaborate on Full stack web development projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Frontend or Backend related stuff.
-- 📫 How to reach me: https://www.linkedin.com/in/gobind-kumar-0332b21a2/
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
--->
-
-
-**Coding Profiles--** 
-
-CODECHEF (https://www.codechef.com/users/gobind36)
-
-HACKEREARTH https://www.hackerearth.com/@gobindkumar19095
-
-GEEKSFORGEEKS https://auth.geeksforgeeks.org/user/gobindkumar19095/practice/
-
-LEETCODE https://leetcode.com/gobind147/
-
-
-<br/>
-  
-  ## 💻 My contribution Graph
-  
-   ![](https://activity-graph.herokuapp.com/graph?username=Gobind147&theme=dracula&hide_border=true&area=true)
- 
-   <br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.react.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gobind147&show_icons=true&locale=en&layout=compact" alt="Gobind147" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gobind147&show_icons=true&locale=en" alt="Gobind147" /></p>
-
-
-<h2 align="center">My Contribution Streak !! :fire:</h2>
-
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gobind147&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-   </a>
+## 👨‍💻 Coding Profiles
+<p align="left">
+  <a href="https://www.codechef.com/users/gobind36">
+    <img src="https://img.shields.io/badge/-CodeChef-black?style=for-the-badge&logoColor=white&logo=codechef&color=5B4638" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerearth.com/@gobindkumar19095">
+    <img src="https://img.shields.io/badge/-HackerEarth-black?style=for-the-badge&logoColor=white&logo=hackerearth&color=2C3454" alt="HackerEarth" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/gobindkumar19095/practice/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-black?style=for-the-badge&logoColor=white&logo=geeksforgeeks&color=0F9D58" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://leetcode.com/gobind147/">
+    <img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logoColor=white&logo=leetcode&color=FFA116" alt="LeetCode" />
+  </a>
 </p>
 
-
-
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logoColor=white&logo=c&color=00599C" alt="C" />
+  <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logoColor=white&logo=java&color=007396" alt="Java" />
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logoColor=white&logo=postgresql&color=336791" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React" />
+</p>
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Gobind147/project-management-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=project-management-dashboard&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project-management-dashboard" />
-</a>
+- [**Shopping Cart**](https://github.com/Gobind147/Shopping-Cart): A dynamic cart system with features for adding, updating, and removing items.
+- [**Task Manager API**](https://github.com/Gobind147/Task-Manager): A CRUD-based task management API using Node.js, Express, and MongoDB.
+- [**Self-Driving Car Control**](https://github.com/Gobind147/Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle): Implemented PID controller for lateral control and adaptive cruise control for longitudinal control.
+- [**Movie Base**](https://github.com/Gobind147/MovieBase): Simple and clean repository of movie information.
+- [**Weather Dashboard**](https://github.com/Gobind147/Weather-Dashboard): An interactive weather application that displays current weather conditions and a 5-day forecast using the OpenWeatherMap API.
+- [**Chrome Extension**](https://github.com/Gobind147/dark-mode-chrome-extension): A simple and efficient Chrome extension that enables dark mode for any website.
 
-<a href="https://github.com/Gobind147/Portfolio-Gobind">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Portfolio-Gobind&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio-Gobind" />
-</a>
+## 🏆 Github Profile Trophy
 
-<a href="https://github.com/Gobind147/Shopping-Cart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Shopping-Cart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Shopping-Cart" />
-</a>
-
-<a href="https://github.com/Gobind147/CRUD-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=CRUD-API&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CRUD-API" />
-</a>
-
-<a href="https://github.com/Gobind147/Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Lateral-and-Logitudinal-Control-of-Self-Driving-Vehicle" />
-</a>
-
-<a href="https://github.com/Gobind147/Automated-Pick-and-Place-Mechanism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gobind147&repo=Automated-Pick-and-Place-Mechanism&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Automated-Pick-and-Place-Mechanism" />
-</a>
-
-
-
-<h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Gobind147&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
- 
-
-
-<!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Gobind147)  -->
-<!-- <h2 align="center">My Contribution Streak !! :fire:</h2>  -->
-
-<!-- <p align="center">
-  <a>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gobind147&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-  </a>
-</p> -->
-<!-- <p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gobind147&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-</p> -->
-
-![Profile views](https://gpvc.arturio.dev/Gobind147)  
-
-
-<!--
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Gobind147" alt="Gobind147" /> </p>-->
-
-<table>
-  <tr>
-    <td><h3>You are Visitor No.: </h3></td>
-    <td><img src="https://profile-counter.glitch.me/Gobind147/count.svg" alt="vistor count" height="45" /></td>
-  </tr>
-
