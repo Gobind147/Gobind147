@@ -3,6 +3,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gobind147&show_icons=true&theme=dracula&count_private=true)
+
+---
+
 ## 📄 Coding Profiles
 
 <p align="center">
