@@ -1,5 +1,5 @@
 # 👋 Gobind Kumar
-*Software Developer | Passionate about building efficient, scalable web applications and constantly exploring new technologies to solve complex problems.*
+*Mechanical Engineer | Passionate about exploring new technologies to solve complex problems.*
 
 ---
 
